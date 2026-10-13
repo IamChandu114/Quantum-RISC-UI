@@ -1,0 +1,10 @@
+{
+  "description": "Designed for professional CPU engineers, this advanced workstation enables in-depth processor analysis, simulation, and debugging for optimal performance insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
